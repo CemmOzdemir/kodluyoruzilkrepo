@@ -23,3 +23,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+## INFO  :exclamation:
+
+Bu repo alanı Patika Dev için Yapmış olduğum çalışmlar içindir.
+
+_This Repo created for my[patika](Patika.dev) lessons,tasks,etc_
